@@ -1,6 +1,6 @@
 package com.usa.misiontic.com.reto3_ciclo3.Controlador;
 
-import com.usa.misiontic.com.reto3_ciclo3.Modelo.Reservation;
+
 import com.usa.misiontic.com.reto3_ciclo3.Modelo.Score;
 import com.usa.misiontic.com.reto3_ciclo3.Servicio.ScoreService;
 import org.springframework.beans.factory.annotation.Autowired;
